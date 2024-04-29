@@ -1,0 +1,223 @@
+@media only screen and (max-width:700px) {
+body{
+    background-color: black;
+}
+    .carousel-item>img {
+        padding-top: 70px;
+   height: 400px;
+}
+#img1{
+width: 400px;
+}
+#about{
+    color: orange;
+
+}
+#story{
+    color: white;
+}
+#menu{
+    color: orange;
+}
+.card{
+    border: 5px solid orange;
+margin-top: 20px;
+}
+.get{
+    color: orange;
+}
+.sen{
+    color: white;
+}
+.mi{
+    color: orange;
+}
+#contact{
+    padding-top: 100px;
+    background-color: black;
+color: orange; 
+margin-top: -100px;  
+ padding-bottom: 100px;
+}
+input {
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    width: 300px;
+}
+.icon{
+    margin-left: 120px;
+}
+.aa{
+display: inline;
+padding-left: 5px;
+}
+.add {
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    width: 400px;
+}
+.btn-new {
+    border: 3px solid orange;
+    padding: 5px;
+    color: black;
+    margin-top: 10px;
+    width: 200px;
+}
+.logimg{
+    margin-left: 80px;
+    margin-top: 50px;
+    -webkit-box-reflect: left -150px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+
+}
+.ss1{   
+    margin-left: 60px;
+    margin-top: 20px;
+    color: black;
+    text-shadow: 2px 2px 4px lightsalmon;
+ 
+}
+
+.cont {
+    margin-left: 60px;
+   color: black;
+   text-shadow: 2px 2px 4px  lightsalmon;
+}
+.a1 {
+    position: relative;
+    display: inline;
+    padding: 10px;
+    left: 50px;
+}
+}
+
+@media only screen and (min-width:700px) {
+
+.carousel-item>img {
+   height: 810px;
+}
+
+
+/* our story start */
+#story {
+    height: 800px;
+    margin-top:-100px;
+    background-color: black;
+    color: white;
+    }    
+#about{
+margin-left: 200px;
+padding-top: 150px;
+color: orange;
+
+}
+#img1{
+margin-top: -50px;
+}
+/* our story end */
+
+/* menu start */
+#menu{
+    padding-top: 100px;
+    background-color: black;
+margin-top: -100px;
+color: orange;
+}
+.card{
+    border-width: 10px;
+    border-style: solid;
+    color: black;
+    border-color: orange;
+    transition: animate__zoomOutDown;
+    border-top: 0px;
+}
+/* menu end */
+
+.get{
+    padding-top: 100px;
+    background-color: black;
+margin-top: -100px;
+color: orange;   
+}
+.sen{
+background-color:black;
+color: white;
+}
+/* contact start*/
+#contact{
+    padding-top: 100px;
+    background-color: black;
+color: orange; 
+margin-top: -100px;  
+ padding-bottom: 100px;
+}
+input {
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    width: 650px;
+}
+.icon{
+    margin-left: 680px;
+}
+.aa{
+display: inline;
+padding-left: 5px;
+}
+.add {
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 400px;
+    border: 1px solid lightgrey;
+    width: 700px;
+}
+.btn-new {
+    border: 3px solid orange;
+    padding: 5px;
+    color: black;
+    margin-top: 10px;
+    width: 200px;
+}
+
+/* contact ends */
+
+/* section ammi */
+
+.logimg{
+    margin-left: 360px;
+    margin-top: 50px;
+    -webkit-box-reflect: left -150px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+
+}
+.ss1{   
+    margin-left: 610px;
+    margin-top: -150px;
+    color: black;
+    text-shadow: 2px 2px 4px lightsalmon;
+ 
+}
+
+.cont {
+    margin-left: 910px;
+   margin-top:-110px;
+   color: black;
+   text-shadow: 2px 2px 4px  lightsalmon;
+}
+.a1 {
+    position: relative;
+    display: inline;
+    padding: 10px;
+    left: 650px;
+    color: darkslategrey;
+    top: 50px;
+}
+}
+
+
+
+
